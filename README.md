@@ -14,3 +14,7 @@ CUDA - optional, but your training times will be VERY long if you don't have it.
 In order to run this project in your machine, you will have to:
 
 TODO
+
+## Status
+
+-- the project is complete, however, the documentation is a work-in-progress --
