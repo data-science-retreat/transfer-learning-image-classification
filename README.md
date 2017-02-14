@@ -4,7 +4,9 @@ Portfolio project demonstrated at the Data Science Retreat: Estimation of calori
 ## Prerequisites:
 
 A working install of the jupyter notebook (Python 3)
+
 Keras library
+
 CUDA - optional, but your training times will be VERY long if you don't have it.
 
 ## Replication
